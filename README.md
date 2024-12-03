@@ -17,3 +17,4 @@ Mi espacio para compartir proyectos de diseño UX/UI, herramientas y procesos qu
 
 ![Wireframe ejemplo](Image Navialto.png)
 [Image-Navialto.png](https://postimg.cc/CnJF7nHM)
+[!image](https://i.postimg.cc/BtfXqxjF/Image-Navialto.png)
