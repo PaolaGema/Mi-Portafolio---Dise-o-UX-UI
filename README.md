@@ -10,6 +10,15 @@ Mi espacio para compartir proyectos de diseño UX/UI, herramientas y procesos qu
    - <a href="https://www.figma.com/design/Dcd2LpGhgL4oInOPYtBizE/NAVIALTO?node-id=0-1&t=Re7iH5exxnoAFxEh-1" target="_blank">
      <img src="https://img.shields.io/badge/Ver_Proyecto-Click_Aquí-blue?style=plastic" alt="Ver Proyecto" width="200">
      </a>
+ 1. **[Proyecto 1: Navialto](#)**
+   
+    ![image](https://i.postimg.cc/HnvgpMB2/Navialto.png)
+    - **Descripción:** Diseño de una app para optimizar la información de rutas y paradas de minibuses en la Ciudad de El Alto - Bolivia..
+    - **Metodologías:** Investigación de usuarios, wireframes, prototipos.
+     
+    - <a href="https://www.figma.com/design/Dcd2LpGhgL4oInOPYtBizE/NAVIALTO?node-id=0-1&t=Re7iH5exxnoAFxEh-1" target="_blank">
+     <img src="https://img.shields.io/badge/Ver_Proyecto-Click_Aquí-blue?style=plastic" alt="Ver Proyecto" width="200">
+     </a>
 
 ## Tecnologías y Herramientas
 - Figma 🎨
