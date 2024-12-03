@@ -12,12 +12,6 @@ Mi espacio para compartir proyectos de diseño UX/UI, herramientas y procesos qu
    - **Descripción:** Diseño de una app para optimizar la información de rutas y paradas de minibuses en la Ciudad de El Alto - Bolivia..
    - **Metodologías:** Investigación de usuarios, wireframes, prototipos.
 
- 1. **[Proyecto 1: Navialto](#)**
-   
-    ![image](https://i.postimg.cc/HnvgpMB2/Navialto.png)
-    - **Descripción:** Diseño de una app para optimizar la información de rutas y paradas de minibuses en la Ciudad de El Alto - Bolivia..
-    - **Metodologías:** Investigación de usuarios, wireframes, prototipos.
- 
 
 ## Tecnologías y Herramientas
 - Figma 🎨
