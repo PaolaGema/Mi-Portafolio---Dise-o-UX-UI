@@ -7,7 +7,7 @@ Mi espacio para compartir proyectos de diseño UX/UI, herramientas y procesos qu
    - **Descripción:** Diseño de una app para optimizar la información de rutas y paradas de minibuses en la Ciudad de El Alto - Bolivia..
    - **Metodologías:** Investigación de usuarios, wireframes, prototipos.
 
-[![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-Click_Aquí-blue?style=for-the-badge)](https://www.figma.com/design/Dcd2LpGhgL4oInOPYtBizE/NAVIALTO?node-id=0-1&t=Re7iH5exxnoAFxEh-1)
+[![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-Click_Aquí-blue?style=plastic)](https://www.figma.com/design/Dcd2LpGhgL4oInOPYtBizE/NAVIALTO?node-id=0-1&t=Re7iH5exxnoAFxEh-1)
 
 ## Tecnologías y Herramientas
 - Figma 🎨
