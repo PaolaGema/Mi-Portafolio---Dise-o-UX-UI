@@ -1,4 +1,5 @@
 ![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-yellow)
+![Licencia](https://img.shields.io/github/license/tu_usuario/mi-portafolio-de-diseño-ux)
 # Mi-Portafolio---Dise-o-UX-UI
 Mi espacio para compartir proyectos de diseño UX/UI, herramientas y procesos que utilizo para crear experiencias centradas en las personas.
 ## Proyectos
