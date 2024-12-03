@@ -8,7 +8,7 @@ Mi espacio para compartir proyectos de diseño UX/UI, herramientas y procesos qu
    - <a href="https://www.figma.com/design/Dcd2LpGhgL4oInOPYtBizE/NAVIALTO?node-id=0-1&t=Re7iH5exxnoAFxEh-1" target="_blank">
      <img src="https://img.shields.io/badge/Ver_Proyecto-Click_Aquí-blue?style=plastic" alt="Ver Proyecto" width="200">
      </a>
-   - <a href="https://www.figma.com/design/Dcd2LpGhgL4oInOPYtBizE/NAVIALTO?node-id=0-1&t=Re7iH5exxnoAFxEh-1" target="_blank">
+   - <a href="https://www.figma.com/proto/Dcd2LpGhgL4oInOPYtBizE/NAVIALTO?node-id=35-2497&node-type=frame&t=ODyTDzTXs8UaGoY1-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=35%3A2497" target="_blank">
      <img src="https://img.shields.io/badge/Ver_Prototipo-Click_Aquí-blue?style=plastic" alt="Ver Proyecto" width="200">
      </a>
      
