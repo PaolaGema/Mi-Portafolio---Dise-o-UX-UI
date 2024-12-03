@@ -14,3 +14,5 @@ Mi espacio para compartir proyectos de diseño UX/UI, herramientas y procesos qu
 ## Contacto
 📧 Email: gemajancopaola@gmail.com  
 🌐 [Mi portafolio](https://tuportafolio.com)
+
+![Wireframe ejemplo](Image Navialto.png)
