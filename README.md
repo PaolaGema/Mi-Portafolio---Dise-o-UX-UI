@@ -8,8 +8,8 @@ Mi espacio para compartir proyectos de diseño UX/UI, herramientas y procesos qu
    - **Metodologías:** Investigación de usuarios, wireframes, prototipos.
      
    - <a href="https://www.figma.com/design/Dcd2LpGhgL4oInOPYtBizE/NAVIALTO?node-id=0-1&t=Re7iH5exxnoAFxEh-1" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_Proyecto-Click_Aquí-blue?style=plastic" alt="Ver Proyecto" width="200">
-</a>
+     <img src="https://img.shields.io/badge/Ver_Proyecto-Click_Aquí-blue?style=plastic" alt="Ver Proyecto" width="200">
+     </a>
 
 ## Tecnologías y Herramientas
 - Figma 🎨
